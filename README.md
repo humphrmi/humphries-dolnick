@@ -3,4 +3,4 @@ First repo / test
 
 myfeaturebranch
 
-another change in line 6
+change in line 6
